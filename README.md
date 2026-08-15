@@ -22,6 +22,21 @@
 3. 找不到时会询问是否自动下载
 4. 下载完成后自动打开 WebUI
 
+## 首次启动检测
+
+DDSH 首次启动时会自动检查以下内容：
+
+1. 本机 `3080` 端口是否已有 DSH 后端在运行
+2. 本机是否已安装 Node.js
+3. 本机是否已安装 DSH / `@deepseek-ai/dsh`
+4. 本机是否已安装 WebView2 Runtime
+
+检测结果：
+
+- 如果 DSH 后端已在运行：直接打开 WebUI
+- 如果缺少 Node.js 或 DSH：会询问是否自动下载
+- 如果缺少 WebView2 Runtime：需要先安装 WebView2 Runtime
+
 ## 构建
 
 在项目目录运行：
