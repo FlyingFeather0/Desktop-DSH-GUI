@@ -1,0 +1,7 @@
+node_modules/
+release/
+*.log
+dsh-config.json
+wv2-userdata/
+DSH.exe.WebView2/
+github-release/
