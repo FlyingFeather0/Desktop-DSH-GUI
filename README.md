@@ -1,4 +1,4 @@
-# Desktop DSH Window
+# Desktop DSH GUI
 
 基于 WPF + WebView2 的 DSH WebUI 桌面GUI前端。
 
