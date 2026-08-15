@@ -1,6 +1,6 @@
 # DSH Desktop Window
 
-基于 WPF + WebView2 的 DSH WebUI 桌面投影壳。
+基于 WPF + WebView2 的 DSH WebUI 桌面GUI前端。
 
 ## 功能
 
@@ -73,7 +73,17 @@ WebUI 的玻璃主题通过注入 CSS 变量实现。
 
 ## Disclaimer / 免责声明
 
-This project is an unofficial desktop wrapper for DSH.
+本项目是 DSH 的第三方桌面 GUI 前端。
+
+本项目与 DeepSeek / DSH 官方无隶属关系。
+
+项目中使用的商标、名称、Logo 及其他资源版权归各自所有者所有。
+
+如您认为任何内容侵犯了您的权利，请联系我，我会尽快删除相关内容。
+
+---
+
+This project is a third-party desktop GUI frontend for DSH.
 
 It is not affiliated with, endorsed by, or sponsored by DeepSeek or DSH.
 
@@ -81,13 +91,6 @@ All trademarks, product names, logos, and other assets belong to their respectiv
 
 If you believe any content infringes your rights, please contact me and I will remove it promptly.
 
----
-
-本项目是 DSH 的非官方桌面美化壳，与 DeepSeek / DSH 官方无关。
-
-项目中使用的所有商标、名称、Logo 及其他资源版权归各自所有者所有。
-
-如您认为任何内容侵犯了您的权利，请联系我，我会尽快删除相关内容。
 
 ## License
 
