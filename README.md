@@ -1,4 +1,4 @@
-# DSH Desktop Window
+# Desktop DSH Window
 
 基于 WPF + WebView2 的 DSH WebUI 桌面GUI前端。
 
@@ -13,7 +13,7 @@
 
 ## 快速开始
 
-直接运行 `DSH.exe`。
+直接运行 `DDSH.exe`。
 
 首次启动时：
 
@@ -48,7 +48,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\make-package.ps1
 构建完成后，可执行文件在：
 
 ```text
-release\DSH.exe
+release\DDSH.exe
 ```
 
 ## 主题定制
